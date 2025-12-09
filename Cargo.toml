@@ -1,7 +1,10 @@
 [package]
 name = "advent_of_code"
 version = "0.12.0"
-authors = ["Felix Spöttel <1682504+fspoettel@users.noreply.github.com>"]
+authors = [
+    "Wladislaw Jerokin <wladhd@gmail.com>",                       # aoc puzzle implementations
+    "Felix Spöttel <1682504+fspoettel@users.noreply.github.com>", # template
+]
 edition = "2024"
 default-run = "advent_of_code"
 publish = false
